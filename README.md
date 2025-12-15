@@ -6,7 +6,8 @@ DataGuard is a powerful, real-time security awareness tool designed to help user
 Built with a cyber-security aesthetic, it connects to a secure Firebase Firestore database to cross-reference user queries against millions of leaked records without compromising user privacy.
 
 Live Preview
-(Add a screenshot of your website here)
+<img width="1901" height="987" alt="Screenshot 2025-12-15 095910" src="https://github.com/user-attachments/assets/1b34db80-24a0-4e6e-b45a-3c48bebcfa6e" />
+
 
 Key Features
 1.Secure Search Architecture: Queries are processed securely; we do not store or log user search inputs.
